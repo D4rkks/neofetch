@@ -1,0 +1,24 @@
+[dark@dark ~]$ neofetch
+                   -`                    dark@dark 
+                  .o+`                   --------- 
+                 `ooo/                   OS: Arch Linux x86_64 
+                `+oooo:                  Host: MS-7A15 1.0 
+               `+oooooo:                 Kernel: 6.10.6-arch1-1 
+               -+oooooo+:                Uptime: 1 hour, 16 mins 
+             `/:-:++oooo+:               Packages: 946 (pacman), 11 (flatpak) 
+            `/++++/+++++++:              Shell: bash 5.2.32 
+           `/++++++++++++++:             Resolution: 1920x1080 
+          `/+++ooooooooooooo/`           DE: GNOME 46.4 
+         ./ooosssso++osssssso+`          WM: Mutter 
+        .oossssso-````/ossssss+`         WM Theme: Adwaita 
+       -osssssso.      :ssssssso.        Theme: Adwaita [GTK2/3] 
+      :osssssss/        osssso+++.       Icons: 01-Tela [GTK2/3] 
+     /ossssssss/        +ssssooo/-       Terminal: kgx 
+   `/ossssso+/:-        -:/+osssso+-     CPU: Intel i5-7400 (4) @ 3.500GHz 
+  `+sso+:-`                 `.-/+oso:    GPU: AMD ATI Radeon RX 5600 OEM/5600 XT / 5700/5700 XT 
+ `++:.                           `-/+/   Memory: 5061MiB / 15957MiB 
+ .`                                 `/
+                                                                 
+                                                                 
+
+
